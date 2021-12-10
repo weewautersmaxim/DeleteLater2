@@ -1,0 +1,116 @@
+{
+  "navigation": {
+    "home": "Accueil",
+    "info": "Info",
+    "rent": "Louer",
+    "reviews": "Commentaires",
+    "login": "Connexion"
+  },
+  "home": {
+    "header": {
+      "title": "Conduire sans émission en Belgique avec Greenbikes",
+      "header-text": "Découvrez comment louer un Greenbike dans n'importe quelle grande ville de Belgique. Les vélos verts sont bon marché, sains et vous ne souffrez pas des embouteillages.",
+      "header-btn": "Découvrez Greenbike"
+    },
+    "infoSections": {
+      "title_1": "Lage émissaire",
+      "par_1": "Le vélo et la marche sont les meilleurs pour l'environnement.",
+      "title_2": "Pas cher",
+      "par_2": "Pour seulement 3,14 euros, vous pouvez louer un vélo",
+      "title_3": "Facile",
+      "par_4": "Vous pouvez louer un vélo en quelques étapes"
+    },
+    "review": "Commentaires",
+    "MoreReviews": "Voir plus d'avis"
+  },
+  "info": {
+    "title": "Greenbikes. Comment ça marche?",
+    "blok_1": {
+      "title": "1 : S'inscrire",
+      "par": "Connectez-vous ou créez un compte sur notre site Web."
+    },
+    "blok_2": {
+      "title": "2: Options",
+      "par": "Choisissez le type de vélo qui vous convient. L'endroit où vous récupérerez le vélo et pendant combien de temps vous souhaitez faire du vélo."
+    },
+    "blok_3": {
+      "title": "3: Emprunter",
+      "par": "Emprunter le vélo à l'heure convenue."
+    },
+    "questions": {
+      "title": "Questions possibles",
+      "question1": "1: Quand puis-je utiliser un Greenbike?",
+      "question1_answer": "Vous pouvez récupérer et utiliser un Greenbike à tout moment de la journée. Vous aurez également la possibilité de louer un Greenbike pour une durée plus longue si vous le souhaitez.",
+      "question2": "2: Que faire en cas de vol ou de dégradation de mon Greenbike?",
+      "question2_answer": "En cas de vol de votre Greenbike, vous devez appeler la police au plus vite. Vous envoyez ensuite le rapport officiel à Greenbike. Dans le cas où votre Greenbike est endommagé, vous devez rendre le vélo au parking le plus proche. Vous pouvez ensuite envoyer un e-mail à l'un des enseignants MCT à Howest. Ils se feront un plaisir de vous livrer personnellement un nouveau vélo.",
+      "question3": "3: Est-ce que je reçois un antivol avec mon Greenbike ?",
+      "question3_answer": "Chaque Greenbike est équipé d'un cadenas et d'un cadenas à chaîne. En dehors des écluses, chaque Greenbike est également équipé d'un panier à l'avant du vélo. Vous pouvez placer votre antivol ici."
+    }
+  },
+  "rent": {
+    "navigation": {
+      "loc": "lieu",
+      "per": "Période",
+      "bike": "Bicyclette"
+    },
+    "location": {
+      "title": "choisir l'emplacement",
+      "select": {
+        "choose": "Kies locatie",
+        "kortrijk": "Courtrai",
+        "gent": "Gand-Sint-Pieters",
+        "antwerp": "Anvers-Central",
+        "brusN": "Bruxelles-Nord",
+        "brusZ": "Bruxelles-Sud",
+        "brug": "Bruges",
+        "has": "Hasselt"
+      },
+      "btn": "Prochaine"
+    },
+    "date": {
+      "title": "Choisissez une date",
+      "fDay": "Premier jour:",
+      "lDay": "Dernier jour:",
+      "btn": "Prochaine"
+    },
+    "bike": {
+      "title_1": "Tandem",
+      "title_2": "vélo de ville",
+      "title_3": "Vélo électrique",
+      "container": {
+        "count": "Vélos disponibles: ",
+        "price": "- Prix par jour : ",
+        "extra": "- Equipé d'un cadenas pour vélo et d'un cadenas à chaîne. Fournir un panier supplémentaire",
+        "helm": "- Casque et autres accessoires en vente séparément dans notre boutique en ligne",
+        "error": "Il n'y a plus de vélos disponibles",
+        "btn": "Louer"
+      }
+    },
+    "pay": {
+      "title": "Facture",
+      "loc": "Emplacement",
+      "per": "Période",
+      "bike": "vélo",
+      "total": "Total",
+      "btn": "Payer"
+    }
+  },
+  "login": {
+    "title": "Login",
+    "p": "Bienvenue chez greenbikes",
+    "name": "Nom d'utilisateur",
+    "ww": "mot de passe",
+    "btn": "Connexion",
+    "reg": "Pas encore de compte ? Inscrivez-vous ici"
+  },
+  "register": {
+    "title": "S'inscrire",
+    "email": "Email",
+    "wwR": "Répéter mot de passe",
+    "btn": "S'inscrire",
+    "reg": "Déjà un compte? Connectez-vous ici"
+  },
+  "reviews": {
+    "title": "Commentaires"
+  }
+}

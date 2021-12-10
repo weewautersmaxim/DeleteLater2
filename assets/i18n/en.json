@@ -1,0 +1,116 @@
+{
+  "navigation": {
+    "home": "Home",
+    "info": "Info",
+    "rent": "Bike rent",
+    "reviews": "Reviews",
+    "login": "Login"
+  },
+  "home": {
+    "header": {
+      "title": "Emission-free driving around Belgium with Greenbikes",
+      "header-text": "Find out how to rent a Greenbike from any major city in Belgium. Greenbikes are cheap, healthy and you don't suffer from traffic jams.",
+      "header-btn": "Discover Greenbike"
+    },
+    "infoSections": {
+      "title_1": "Low Emission",
+      "par_1": "Cycling and walking are the best for the environment.",
+      "title_2": "Cheap",
+      "par_2": "For only 3.14 euros you can rent a bike",
+      "title_3": "Easy",
+      "par_4": "You can rent a bike in a few steps"
+    },
+    "review": "Reviews",
+    "MoreReviews": "View more reviews"
+  },
+  "info": {
+    "title": "Greenbikes. How does it work?",
+    "blok_1": {
+      "title": "1: Register",
+      "par": "Login or register an account on our website."
+    },
+    "blok_2": {
+      "title": "2: Options",
+      "par": "Choose your type of bike that suits you. The location where you will pick up the bicycle and for how long you wish to cycle."
+    },
+    "blok_3": {
+      "title": "3: Borrow",
+      "par": "Borrow the bike at the agreed time."
+    },
+    "questions": {
+      "title": "Possible questions",
+      "question1": "1: When can I use a Greenbike?",
+      "question1_answer": "You can pick up and use a Greenbike at any time of the day. You will also have the opportunity to rent a Greenbike for a longer period if you wish.",
+      "question2": "2: What should I do in the event of theft or damage to my Greenbike?",
+      "question2_answer": "If your Greenbike is stolen, you must call the police as soon as possible. You then send the official report to Greenbike. In the event that your Greenbike is damaged, you must return the bicycle to the nearest parking spot. You can then send an email to one of the MCT teachers in Howest. They will be happy to personally deliver you a new bicycle.",
+      "question3": "3: Do I get a lock with my Greenbike?",
+      "question3_answer": "Every Greenbike is equipped with a bicycle lock and a chain lock. Outside the locks, every Greenbike is also provided with a basket on the front of the bicycle. You can place your chain lock here."
+    }
+  },
+  "rent": {
+    "navigation": {
+      "loc": "Location",
+      "per": "Period",
+      "bike": "Bike"
+    },
+    "location": {
+      "title": "Choose location",
+      "select": {
+        "choose": "Choose location",
+        "kortrijk": "Kortrijk",
+        "gent": "Ghent-Sint-Pieters",
+        "antwerp": "Antwerp-Central",
+        "brusN": "Brussels-Nord",
+        "brusZ": "Brussels-South",
+        "brug": "Bruges",
+        "has": "Hasselt"
+      },
+      "btn": "Next"
+    },
+    "date": {
+      "title": "Select a date",
+      "fDay": "First day:",
+      "lDay": "Last day:",
+      "btn": "Next"
+    },
+    "bike": {
+      "title_1": "Tandem",
+      "title_2": "city ​​bike",
+      "title_3": "Electric bike",
+      "container": {
+        "count": "Bikes available: ",
+        "price": "- Price per day: ",
+        "extra": "- Equipped with a bicycle lock and a chain lock. Provide extra basket",
+        "helm": "- Helmet and other accessories for sale separately in our webshop",
+        "error": "There are no more bicycles available",
+        "btn": "Rent"
+      }
+    },
+    "pay": {
+      "title": "Bill",
+      "loc": "Location",
+      "per": "Period",
+      "bike": "Bike",
+      "total": "Total",
+      "btn": "Pay"
+    }
+  },
+  "login": {
+    "title": "Login",
+    "p": "Welcome to greenbikes",
+    "name": "User name",
+    "ww": "Password",
+    "btn": "Login",
+    "reg": "No account yet? Register here"
+  },
+  "register": {
+    "title": "Register",
+    "email": "Email",
+    "wwR": "Repeat password",
+    "btn": "Register",
+    "reg": "Already an account? Login here"
+  },
+  "reviews": {
+    "title": "Reviews"
+  }
+}

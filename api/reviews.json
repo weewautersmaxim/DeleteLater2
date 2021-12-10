@@ -1,0 +1,58 @@
+[
+  {
+    "reviewId": 1,
+    "title": "Boter ham",
+    "userImg": "assets/svg/user.svg",
+    "explenation": "I learned to ride a bike on BlueBikes! The service was a great way to try out the bikes when I wanted them. I have been using them to commute to the gym now along a bike lane. I often see full or empty docks like the other comments describe. But the density of docks is so high in my area that it never causes an issue. Definitely scan the map before you leave before you ride. Thank you for the service!",
+    "score": 4,
+    "createdAt": "2021-11-05"
+  },
+  {
+    "reviewId": 2,
+    "title": "Klaas Sinter",
+    "userImg": "assets/svg/user.svg",
+    "explenation": "Fiets is handig voor pakketjes rond te brengen, veel efficienter dan paarden! Handig voor mijn zwarte pieten overal snel te laten komen. Het greenbike team verdiend dit jaar een extra pakje (of puntje op rapport)",
+    "score": 4,
+    "createdAt": "2021-11-05T18:47:41.422Z"
+  },
+  {
+    "reviewId": 3,
+    "title": "Pompol Moes",
+    "userImg": "assets/svg/user.svg",
+    "explenation": "Handig om mee naar de groentenmarkt te fietsen. De website is in alle opzichten perfect. Ik geef wel maar 3 punten omdat ik niet echt ben en het sterren systeem eens getest moet worden. Het kunnen niet allemaal 4s en 5s zijn eh...",
+    "score": 3,
+    "createdAt": "2021-11-05T18:47:41.422Z"
+  },
+  {
+    "reviewId": 4,
+    "title": "blue bike ceo",
+    "userImg": "assets/svg/user.svg",
+    "explenation": "Greenbikes is 100 keer beter dan alles wat wij ooit zouden kunnen maken. Ik heb hierbij dan ook besloten om bluebikes te stoppen. Al het geld zal ik doneren aan de MCT leerkrachten. Hierbij hoop ik dat ze het greenbike team een puntje extra zullen geven!",
+    "score": 1,
+    "createdAt": "2021-11-05T18:47:41.422Z"
+  },
+  {
+    "reviewId": 2,
+    "title": "Klaas Sinter",
+    "userImg": "assets/svg/user.svg",
+    "explenation": "Fiets is handig voor pakketjes rond te brengen, veel efficienter dan paarden! Handig voor mijn zwarte pieten overal snel te laten komen. Het greenbike team verdiend dit jaar een extra pakje (of puntje op rapport)",
+    "score": 4,
+    "createdAt": "2021-11-05T18:47:41.422Z"
+  },
+  {
+    "reviewId": 3,
+    "title": "Pompol Moes",
+    "userImg": "assets/svg/user.svg",
+    "explenation": "Handig om mee naar de groentenmarkt te fietsen. De website is in alle opzichten perfect. Ik geef wel maar 3 punten omdat ik niet echt ben en het sterren systeem eens getest moet worden. Het kunnen niet allemaal 4s en 5s zijn eh...",
+    "score": 3,
+    "createdAt": "2021-11-05T18:47:41.422Z"
+  },
+  {
+    "reviewId": 4,
+    "title": "blue bike ceo",
+    "userImg": "assets/svg/money.svg",
+    "explenation": "Greenbikes is 100 keer beter dan alles wat wij ooit zouden kunnen maken. Ik heb hierbij dan ook besloten om bluebikes te stoppen. Al het geld zal ik doneren aan de MCT leerkrachten. Hierbij hoop ik dat ze het greenbike team een puntje extra zullen geven!",
+    "score": 5,
+    "createdAt": "2021-11-05T18:47:41.422Z"
+  }
+]

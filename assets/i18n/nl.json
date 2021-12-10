@@ -1,0 +1,116 @@
+{
+  "navigation": {
+    "home": "Home",
+    "info": "Info",
+    "rent": "Fiets huren",
+    "reviews": "Reviews",
+    "login": "Login"
+  },
+  "home": {
+    "header": {
+      "title": "Emissievrij rond België rijden met Greenbikes",
+      "header-text": "Ontdek hoe je een Greenbike kan huren vanuit elke grote stad in België. Greenbikes zijn goedkoop, gezond en je hebt geen last van files.",
+      "header-btn": "Ontdek Greenbike"
+    },
+    "infoSections": {
+      "title_1": "Lage emissie",
+      "par_1": "Fietsen en lopen zijn het beste voor het milieu.",
+      "title_2": "Goedkoop",
+      "par_2": "Voor slechts 3.14 euro kan u een fiets huren",
+      "title_3": "Gemakkelijk",
+      "par_3": "Je kan een fiets huren in een paar stappen"
+    },
+    "review": "Reviews",
+    "MoreReviews": "Bekijk meer reviews"
+  },
+  "info": {
+    "title": "Greenbikes. Hoe werkt het?",
+    "blok_1": {
+      "title": "1: Registreer",
+      "par": "Login of registreer een account op onze website."
+    },
+    "blok_2": {
+      "title": "2: Opties",
+      "par": "Kies uw type fiets bij u past. De locatie waar u de fiets ophaalt en hoelang u wenst te fietsen."
+    },
+    "blok_3": {
+      "title": "3: Ontleen",
+      "par": "Ontleen de fiets op het afgesproken uur."
+    },
+    "questions": {
+      "title": "Eventuele vragen",
+      "question1": "1: Wanneer kan ik een Greenbike gebruiken?",
+      "question1_answer": "Je kan een Greenbike op elk moment van de dag afhalen en gebruiken. U krijgt ook de mogelijkheid om een Greenbike te huren voor een langere periode indien u dit wenst.",
+      "question2": "2: Wat moet ik doen bij diefstal of beschadiging van mijn Greenbike?",
+      "question2_answer": "Indien uw Greenbike gestolen is moet u zo snel mogelijk de politie bellen. Het proces-verbaal stuur je vervolgens naar Greenbike. In het geval dat uw Greenbike beschadigd is moet u de fiets terug brengen naar de dichtstbijzijnde staanplaats. U kan vervolgens een email sturen naar één van de MCT leerkrachten te Howest. Zij zullen u met plezier persoonlijk een nieuwe fiets komen bezorgen.",
+      "question3": "3: Krijg ik een slot bij mijn Greenbike?",
+      "question3_answer": "Elke Greenbike is uitgerust met een fietsslot en een kettingslot. Buiten de sloten wordt elke Greenbike ook voorzien van een mandje voorop de fiets. U kan uw kettingslot hier plaatsen."
+    }
+  },
+  "rent": {
+    "navigation": {
+      "loc": "Locatie",
+      "per": "Periode",
+      "bike": "Fiets"
+    },
+    "location": {
+      "title": "Selecteer locatie",
+      "select": {
+        "choose": "Kies locatie",
+        "kortrijk": "Kortrijk",
+        "gent": "Gent-Sint-Pieters",
+        "antwerp": "Antwerpen-Centraal",
+        "brusN": "Brussel-Noord",
+        "brusZ": "Brussel-Zuid",
+        "brug": "Brugge",
+        "has": "Hasselt"
+      },
+      "btn": "Volgende"
+    },
+    "date": {
+      "title": "Selecteer een datum",
+      "fDay": "Eerste dag:",
+      "lDay": "Laatste dag:",
+      "btn": "Volgende"
+    },
+    "bike": {
+      "title_1": "Tandem",
+      "title_2": "Stadfiets",
+      "title_3": "Elektrische fiets",
+      "container": {
+        "count": "Fietsen beschikbaar: ",
+        "price": "- Prijs per dag: ",
+        "extra": "- Uitgerust met een fietsslot en een kettingslot. Extra mandje voorzien",
+        "helm": "- Helm en andere accessoires apart te koop in onze webshop",
+        "error": "Er zijn geen fietsen meer beschikbaar",
+        "btn": "Huren"
+      }
+    },
+    "pay": {
+      "title": "Rekening",
+      "loc": "Locatie",
+      "per": "Periode",
+      "bike": "Fiets",
+      "total": "Totaal",
+      "btn": "Betalen"
+    }
+  },
+  "login": {
+    "title": "Login",
+    "p": "Welkom bij greenbikes",
+    "name": "Gebruikersnaam",
+    "ww": "Wachtwoord",
+    "btn": "Login",
+    "reg": "Nog geen account? Registreer hier"
+  },
+  "register": {
+    "title": "Registreren",
+    "email": "Email",
+    "wwR": "Wachtwoord herhalen",
+    "btn": "Registreren",
+    "reg": "Al een account? Login hier"
+  },
+  "reviews": {
+    "title": "Reviews"
+  }
+}
